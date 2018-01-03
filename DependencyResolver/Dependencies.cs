@@ -1,0 +1,19 @@
+﻿using Ninject.Modules;
+using Services;
+using Services.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DependencyResolver
+{
+    public class Dependencies : NinjectModule
+    {
+        public override void Load()
+        {
+            Bind<INoteService>().To<NoteService>();
+        }
+    }
+}

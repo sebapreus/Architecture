@@ -1,0 +1,11 @@
+D:\!Projekty\Architecture\ViewModels\bin\Debug\ViewModels.dll
+D:\!Projekty\Architecture\ViewModels\bin\Debug\ViewModels.pdb
+D:\!Projekty\Architecture\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+D:\!Projekty\Architecture\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+D:\!Projekty\Architecture\ViewModels\obj\Debug\ViewModels.dll
+D:\!Projekty\Architecture\ViewModels\obj\Debug\ViewModels.pdb
+C:\!Seba\!Projekty\Architecture\ViewModels\bin\Debug\ViewModels.dll
+C:\!Seba\!Projekty\Architecture\ViewModels\bin\Debug\ViewModels.pdb
+C:\!Seba\!Projekty\Architecture\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+C:\!Seba\!Projekty\Architecture\ViewModels\obj\Debug\ViewModels.dll
+C:\!Seba\!Projekty\Architecture\ViewModels\obj\Debug\ViewModels.pdb
