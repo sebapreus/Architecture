@@ -181,3 +181,14 @@ C:\!Seba\!Projekty\Architecture\Architecture\bin\Ninject.Web.Common.WebHost.xml
 C:\!Seba\!Projekty\Architecture\Architecture\bin\Ninject.Web.Mvc.xml
 C:\!Seba\!Projekty\Architecture\Architecture\bin\DependencyResolver.dll
 C:\!Seba\!Projekty\Architecture\Architecture\bin\DependencyResolver.pdb
+D:\!Projekty\Architecture\Architecture\bin\DependencyResolver.dll
+D:\!Projekty\Architecture\Architecture\bin\Ninject.dll
+D:\!Projekty\Architecture\Architecture\bin\Ninject.Web.Common.dll
+D:\!Projekty\Architecture\Architecture\bin\Ninject.Web.Common.WebHost.dll
+D:\!Projekty\Architecture\Architecture\bin\Ninject.Web.Mvc.dll
+D:\!Projekty\Architecture\Architecture\bin\WebActivatorEx.dll
+D:\!Projekty\Architecture\Architecture\bin\DependencyResolver.pdb
+D:\!Projekty\Architecture\Architecture\bin\Ninject.xml
+D:\!Projekty\Architecture\Architecture\bin\Ninject.Web.Common.xml
+D:\!Projekty\Architecture\Architecture\bin\Ninject.Web.Common.WebHost.xml
+D:\!Projekty\Architecture\Architecture\bin\Ninject.Web.Mvc.xml
