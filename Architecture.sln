@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Servic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyResolver", "DependencyResolver\DependencyResolver.csproj", "{1967F2E4-9BEB-43E6-A011-D038B1F20BA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitOfWork", "UnitOfWork\UnitOfWork.csproj", "{06ACD1C6-C47C-42DE-9762-F3CF57B62D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{FC945CB8-A7F8-4576-942A-8E6822689BDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{1967F2E4-9BEB-43E6-A011-D038B1F20BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1967F2E4-9BEB-43E6-A011-D038B1F20BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1967F2E4-9BEB-43E6-A011-D038B1F20BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06ACD1C6-C47C-42DE-9762-F3CF57B62D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06ACD1C6-C47C-42DE-9762-F3CF57B62D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06ACD1C6-C47C-42DE-9762-F3CF57B62D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06ACD1C6-C47C-42DE-9762-F3CF57B62D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC945CB8-A7F8-4576-942A-8E6822689BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC945CB8-A7F8-4576-942A-8E6822689BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC945CB8-A7F8-4576-942A-8E6822689BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC945CB8-A7F8-4576-942A-8E6822689BDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

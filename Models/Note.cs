@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    public class Note : IModel
+    public class Note : IBaseModel
     {
         public int Id { get; set; }
         public string Title { get; set; }

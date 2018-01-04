@@ -192,3 +192,9 @@ D:\!Projekty\Architecture\Architecture\bin\Ninject.xml
 D:\!Projekty\Architecture\Architecture\bin\Ninject.Web.Common.xml
 D:\!Projekty\Architecture\Architecture\bin\Ninject.Web.Common.WebHost.xml
 D:\!Projekty\Architecture\Architecture\bin\Ninject.Web.Mvc.xml
+D:\!Projekty\Architecture\Architecture\bin\UnitOfWork.dll
+D:\!Projekty\Architecture\Architecture\bin\Repositories.dll
+D:\!Projekty\Architecture\Architecture\bin\UnitOfWork.pdb
+D:\!Projekty\Architecture\Architecture\bin\UnitOfWork.dll.config
+D:\!Projekty\Architecture\Architecture\bin\Repositories.pdb
+D:\!Projekty\Architecture\Architecture\bin\Repositories.dll.config

@@ -78,3 +78,9 @@ D:\!Projekty\Architecture\DependencyResolver\obj\Debug\DependencyResolver.csproj
 D:\!Projekty\Architecture\DependencyResolver\obj\Debug\DependencyResolver.csproj.CoreCompileInputs.cache
 D:\!Projekty\Architecture\DependencyResolver\obj\Debug\DependencyResolver.dll
 D:\!Projekty\Architecture\DependencyResolver\obj\Debug\DependencyResolver.pdb
+D:\!Projekty\Architecture\DependencyResolver\bin\Debug\UnitOfWork.dll
+D:\!Projekty\Architecture\DependencyResolver\bin\Debug\Repositories.dll
+D:\!Projekty\Architecture\DependencyResolver\bin\Debug\UnitOfWork.pdb
+D:\!Projekty\Architecture\DependencyResolver\bin\Debug\UnitOfWork.dll.config
+D:\!Projekty\Architecture\DependencyResolver\bin\Debug\Repositories.pdb
+D:\!Projekty\Architecture\DependencyResolver\bin\Debug\Repositories.dll.config

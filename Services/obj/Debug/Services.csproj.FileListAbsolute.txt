@@ -75,3 +75,9 @@ C:\!Seba\!Projekty\Architecture\Services\bin\Debug\Newtonsoft.Json.xml
 C:\!Seba\!Projekty\Architecture\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
 C:\!Seba\!Projekty\Architecture\Services\obj\Debug\Services.dll
 C:\!Seba\!Projekty\Architecture\Services\obj\Debug\Services.pdb
+D:\!Projekty\Architecture\Services\bin\Debug\Repositories.dll
+D:\!Projekty\Architecture\Services\bin\Debug\UnitOfWork.dll
+D:\!Projekty\Architecture\Services\bin\Debug\Repositories.pdb
+D:\!Projekty\Architecture\Services\bin\Debug\Repositories.dll.config
+D:\!Projekty\Architecture\Services\bin\Debug\UnitOfWork.pdb
+D:\!Projekty\Architecture\Services\bin\Debug\UnitOfWork.dll.config

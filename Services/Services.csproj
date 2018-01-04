@@ -75,6 +75,14 @@
       <Project>{8c745f29-b5a1-4a26-9d9f-71f2db0c5fb3}</Project>
       <Name>Models</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Repositories\Repositories.csproj">
+      <Project>{FC945CB8-A7F8-4576-942A-8E6822689BDA}</Project>
+      <Name>Repositories</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnitOfWork\UnitOfWork.csproj">
+      <Project>{06acd1c6-c47c-42de-9762-f3cf57b62d4c}</Project>
+      <Name>UnitOfWork</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ViewModels\ViewModels.csproj">
       <Project>{e3fc897d-b54e-47f4-ad9b-a8646bd0dcc4}</Project>
       <Name>ViewModels</Name>
